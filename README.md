@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **React, DSA and Machine learning.**
 
-- 👨‍💻 All of my projects are available at [https://abhi100392portfolio.netlify.app/](https://abhi100392portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My portfolio.](https://abhi100392portfolio.netlify.app/)
 
 - 💬 Ask me about **DSA, Javascript, React.**
 
 - 📫 How to reach me **abhisingh100392@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NcWnwuVZ--fk0wFUdQZDgfAEkYPjY6f7/view?usp=sharing](https://drive.google.com/file/d/1NcWnwuVZ--fk0wFUdQZDgfAEkYPjY6f7/view?usp=sharing)
+- 📄 Know about my experiences [My Updated Resume.](https://drive.google.com/file/d/1NcWnwuVZ--fk0wFUdQZDgfAEkYPjY6f7/view?usp=sharing)
 
 - ⚡ Fun fact **I am old fashioned.**
 
