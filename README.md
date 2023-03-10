@@ -52,4 +52,4 @@
 
 ## 👨‍💻 Leetcode Profile:
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/abhi_01_01)](https://leetcode.com/abhi_01_01jmd_21?ext=heatmap)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/abhi_01_01)](https://leetcode.com/abhi_01_01?ext=heatmap)
