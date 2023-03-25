@@ -76,7 +76,7 @@
 
 ## 🏆 GitHub Trophies:
 
-![](https://github-profile-trophy.vercel.app/?username=abhi01-01&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=abhi01-01&theme=algolia&no-frame=false&no-bg=false&margin-w=5)
 
 ## 👨‍💻 Leetcode Profile:
 
