@@ -1,6 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Welcome to my github profile. Hi 👋, I'm Abhishek Singh.</h1>
-<h3 align="center">A passionate programmer and full stack(MERN) developer from India.</h3>
+
+# Welcome to my github profile. Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Abhishek Singh.
+
+<h3 align="center">A passionate programmer and MERN stack developer from India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi01-01&label=Profile%20views&color=0e75b6&style=flat" alt="abhi01-01" /> </p>
 
