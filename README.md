@@ -73,9 +73,9 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi01-01&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="abhi01-01" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhi01-01&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="abhi01-01" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi01-01&show_icons=true&locale=en&theme=dark&background=000000" alt="abhi01-01" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=abhi01-01&show_icons=true&locale=en&theme=dark&background=000000" alt="abhi01-01" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi01-01&theme=dark&background=000000" alt="abhi01-01" /></p>
 
