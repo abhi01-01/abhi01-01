@@ -40,7 +40,7 @@
 
 - 📄 Know about my experiences [My Updated Resume.](https://drive.google.com/file/d/1NcWnwuVZ--fk0wFUdQZDgfAEkYPjY6f7/view?usp=sharing)
 
-- ⚡ Fun fact **I am old fashioned.**
+- ⚡ Fun fact : **I'm old school.**
 
 
 <h2 align="left">Coding Profiles:</h2>
