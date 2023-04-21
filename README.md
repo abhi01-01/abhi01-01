@@ -69,7 +69,8 @@
 <br><br>
 
 ## 🎧 Spotify Playing 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" align="center" alt="abs Spotify Playing" width="350" />](https://open.spotify.com/user/fadb55qrvf0eyyubwfnibq0bi)
+
+[![Spotify Recently Playing](https://spotify-recently-played-readme.vercel.app/api?user=fadb55qrvf0eyyubwfnibq0bi&count=6&width=600&align=center&unique=true)](https://open.spotify.com/user/fadb55qrvf0eyyubwfnibq0bi)
 
 ## 📊 GitHub Stats:
 
