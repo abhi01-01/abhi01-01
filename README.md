@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi01-01&label=Profile%20views&color=0e75b6&style=flat" alt="abhi01-01" /> </p>
 
 <p align="center"> 
-  <a href="https://twitter.com/abhisingh100392">
+  <a href="https://twitter.com/@_Ilunga_0">
     <img src="https://img.shields.io/badge/Twitter-9e7661?style=for-the-badge"/>
     
   </a>
