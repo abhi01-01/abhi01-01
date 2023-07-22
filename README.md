@@ -46,8 +46,8 @@
 <h2 align="left">Coding Profiles:</h2>
 <p align="center">
 <a href="https://www.codechef.com/users/dflabs_83" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dflabs_83" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhi_01_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi_01_01" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhisingh100392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhisingh100392" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhi_01_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="abhi_01_01" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abhisingh100392" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg"alt="abhisingh100392" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">💻 Tech Stack:</h2>
