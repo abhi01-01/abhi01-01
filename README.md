@@ -70,7 +70,7 @@
 
 ## 🎧 Spotify Playing 
 
-[![Spotify Recently Playing](https://spotify-recently-played-readme.vercel.app/api?user=fadb55qrvf0eyyubwfnibq0bi&unique=true)](https://open.spotify.com/user/fadb55qrvf0eyyubwfnibq0bi)
+[![Spotify Recently Playing](https://spotify-recently-played-readme.vercel.app/api?user=fadb55qrvf0eyyubwfnibq0bi&count=6&width=600&align=center&unique=true)](https://open.spotify.com/user/fadb55qrvf0eyyubwfnibq0bi)
 
 ## 📊 GitHub Stats:
 
