@@ -1,16 +1,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-# Welcome to my github profile. Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Abhishek Singh.
+# Welcome to my github profile. Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Abhishek
 
 <h3 align="center">A passionate programmer and MERN stack developer from India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi01-01&label=Profile%20views&color=0e75b6&style=flat" alt="abhi01-01" /> </p>
 
 <p align="center"> 
-  <a href="https://twitter.com/@_Ilunga_0">
+  
+  <!-- <a href="https://twitter.com/@_Ilunga_0">
     <img src="https://img.shields.io/badge/Twitter-9e7661?style=for-the-badge"/>
-    
-  </a>
+  </a> -->
   
    <a href="https://portfolio-abhi-83.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-7a5c4b?style=for-the-badge"/>
@@ -24,9 +24,9 @@
     <img src="https://img.shields.io/badge/Email-7a5c4b?style=for-the-badge"/>
   </a>
   
-  <a href="https://www.instagram.com/_singh.tanishq_/">
+  <!-- <a href="https://www.instagram.com/_singh.tanishq_/">
     <img src="https://img.shields.io/badge/Instagram-9e7661?style=for-the-badge"/>
-  </a>
+  </a> -->
 
 </p>
 
@@ -38,14 +38,14 @@
 
 - 💬 Ask me about **DSA, Javascript, React.**
 
-- 📄 Know about my experiences [My Updated Resume.](https://drive.google.com/file/d/1NcWnwuVZ--fk0wFUdQZDgfAEkYPjY6f7/view?usp=sharing)
+- 📄 Know about my experiences [My Updated Resume.](https://drive.google.com/file/d/14PSgDH4DKw8SEaSMHeIcz6DzRU6TA1SA/view?usp=sharing)
 
 - ⚡ Fun fact : **I'm old school.**
 
 
 <h2 align="left">Coding Profiles:</h2>
 <p align="center">
-<a href="https://www.codechef.com/users/dflabs_83" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dflabs_83" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dflabs_83" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dflabs_83" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhi_01_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="abhi_01_01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhisingh100392" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg"alt="abhisingh100392" height="30" width="40" /></a>
 </p>
