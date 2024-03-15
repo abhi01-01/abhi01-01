@@ -23,10 +23,6 @@
    <a href="mailto:abhisingh100392@gmail.com">
     <img src="https://img.shields.io/badge/Email-7a5c4b?style=for-the-badge"/>
   </a>
-  
-  <!-- <a href="https://www.instagram.com/_singh.tanishq_/">
-    <img src="https://img.shields.io/badge/Instagram-9e7661?style=for-the-badge"/>
-  </a> -->
 
 </p>
 
@@ -38,7 +34,7 @@
 
 - 💬 Ask me about **DSA, Javascript, React.**
 
-- 📄 Know about my experiences [My Updated Resume.](https://drive.google.com/file/d/14PSgDH4DKw8SEaSMHeIcz6DzRU6TA1SA/view?usp=sharing)
+- 📄 Know about my experiences [My Updated Resume.](https://drive.google.com/file/d/1KSQXEqnqR24uOSgDXna8a_fCy-FyzOlh/view?usp=sharing)
 
 - ⚡ Fun fact : **I'm old school.**
 
