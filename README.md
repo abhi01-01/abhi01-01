@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **DSA, Javascript, React.**
 
-- 📄 Know about my experiences [My Updated Resume.](https://drive.google.com/file/d/1KSQXEqnqR24uOSgDXna8a_fCy-FyzOlh/view?usp=sharing)
+- 📄 Know about my experiences [My Updated Resume.](https://drive.google.com/file/d/1EsHiGFPEWio059qGBhVE7zMO8gea7yCW/view?usp=sharing)
 
 - ⚡ Fun fact : **I'm old school.**
 
