@@ -2,7 +2,7 @@
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Abhishek. Welcome to my github profile.
 
-<h3 align="center">A passionate programmer and MERN stack developer from India.</h3>
+<h3 align="center">A passionate programmer and Java developer from India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi01-01&label=Profile%20views&color=0e75b6&style=flat" alt="abhi01-01" /> </p>
 
@@ -32,7 +32,7 @@
 
 - 🌱 I’m currently learning **React, DSA and Machine learning.**
 
-- 💬 Ask me about **DSA, Javascript, React.**
+- 💬 Ask me about **DSA, Java, React.**
 
 - 📄 Know about my experiences [My Updated Resume.](https://drive.google.com/file/d/1EsHiGFPEWio059qGBhVE7zMO8gea7yCW/view?usp=sharing)
 
