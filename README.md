@@ -41,9 +41,9 @@
 
 <h2 align="left">Coding Profiles:</h2>
 <p align="center">
-<a href="https://www.codechef.com/users/dflabs_83" target="blank" ><img align="center" src="https://res.cloudinary.com/shopie/image/upload/v1705531156/icons8-codechef-50_f3n6tq.png" alt="dflabs_83" height="60" width="70" /></a>
 <a href="https://www.leetcode.com/abhi_01_01" target="blank"><img align="center" src="https://res.cloudinary.com/shopie/image/upload/v1705531863/icons8-level-up-your-coding-skills-and-quickly-land-a-job-48_aich4p.png" alt="abhi_01_01" height="60" width="60" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhisingh100392" target="blank"><img align="center" src="https://res.cloudinary.com/shopie/image/upload/v1705531375/icons8-geeksforgeeks-48_lakn3y.png"alt="abhisingh100392" height="90" width="70" /></a>
+<a href="https://www.codechef.com/users/dflabs_83" target="blank" ><img align="center" src="https://res.cloudinary.com/shopie/image/upload/v1705531156/icons8-codechef-50_f3n6tq.png" alt="dflabs_83" height="60" width="70" /></a>
 </p>
 
 <h2 align="left">☕ Support:</h2>
