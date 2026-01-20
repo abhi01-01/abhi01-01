@@ -30,7 +30,7 @@
 
 - 🔭 I’m currently working on **a full stack project.**
 
-- 🌱 I’m currently learning **React, DSA and Machine learning.**
+- 🌱 I’m currently learning **Java, React, DSA and Machine learning.**
 
 - 💬 Ask me about **DSA, Java, React.**
 
@@ -46,29 +46,17 @@
 <a href="https://auth.geeksforgeeks.org/user/abhisingh100392" target="blank"><img align="center" src="https://res.cloudinary.com/shopie/image/upload/v1705531375/icons8-geeksforgeeks-48_lakn3y.png"alt="abhisingh100392" height="90" width="70" /></a>
 </p>
 
-<h2 align="left">💻 Tech Stack:</h2>
-<p align="center">
-  <a href="https://rupali-codes.netlify.app">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,mongodb,express,react,nodejs,mysql" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://rupali-codes.netlify.app">
-    <img src="https://skillicons.dev/icons?i=html,css,py,heroku,redux,git,github" />
-  </a>
-</p>
-
 <h2 align="left">☕ Support:</h2>
 
 <p align="center"><a href="https://www.buymeacoffee.com/abhisingh1B"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/abhisingh1B" /></a></p>
 
 <br><br>
 
-## 🎧 Spotify Playing 
+<!-- ## 🎧 Spotify Playing 
 
-[![Spotify Recently Playing](https://spotify-recently-played-readme.vercel.app/api?user=fadb55qrvf0eyyubwfnibq0bi&count=6&width=600&align=center&unique=true)](https://open.spotify.com/user/fadb55qrvf0eyyubwfnibq0bi)
+[![Spotify Recently Playing](https://spotify-recently-played-readme.vercel.app/api?user=fadb55qrvf0eyyubwfnibq0bi&count=6&width=600&align=center&unique=true)](https://open.spotify.com/user/fadb55qrvf0eyyubwfnibq0bi) -->
 
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats:
 
 <p align="center"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhi01-01&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="abhi01-01" /></p>
 
@@ -78,7 +66,7 @@
 
 ## 🏆 GitHub Trophies:
 
-![](https://github-profile-trophy.vercel.app/?username=abhi01-01&theme=algolia&no-frame=false&no-bg=false&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=abhi01-01&theme=algolia&no-frame=false&no-bg=false&margin-w=5) --> 
 
 ## 👨‍💻 Leetcode Profile:
 
