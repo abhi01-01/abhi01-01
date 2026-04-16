@@ -2,7 +2,7 @@
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Abhishek. Welcome to my github profile.
 
-<h3 align="center">A passionate programmer and Java developer from India.</h3>
+<h3 align="center">A passionate programmer and backend developer from India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi01-01&label=Profile%20views&color=0e75b6&style=flat" alt="abhi01-01" /> </p>
 
@@ -11,10 +11,6 @@
   <!-- <a href="https://twitter.com/@_Ilunga_0">
     <img src="https://img.shields.io/badge/Twitter-9e7661?style=for-the-badge"/>
   </a> -->
-  
-   <a href="https://portfolio-abhi-83.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-7a5c4b?style=for-the-badge"/>
-  </a>
   
   <a href="https://www.linkedin.com/in/abhishek0105/">
     <img src="https://img.shields.io/badge/LinkedIn-9e7661?style=for-the-badge"/>
@@ -30,21 +26,36 @@
 
 - 🔭 I’m currently working on **a full stack project.**
 
-- 🌱 I’m currently learning **Java, React, DSA and Machine learning.**
+- 🌱 I’m currently learning **Java, DSA and System Design.**
 
-- 💬 Ask me about **DSA, Java, React.**
+- 💬 Ask me about **DSA, Java, SpringBoot, Microservices.**
 
-- 📄 Know about my experiences [My Updated Resume.](https://drive.google.com/file/d/1EsHiGFPEWio059qGBhVE7zMO8gea7yCW/view?usp=sharing)
+- 📄 Get My Resume [here](https://drive.google.com/file/d/1qqGqJI5PoBYpKDEDlqKt3lx9wwXpTQ3p/view?usp=sharing), request for access.
 
 - ⚡ Fun fact : **I'm old school.**
 
 
 <h2 align="left">Coding Profiles:</h2>
-<p align="center">
-<a href="https://www.leetcode.com/abhi_01_01" target="blank"><img align="center" src="https://res.cloudinary.com/shopie/image/upload/v1705531863/icons8-level-up-your-coding-skills-and-quickly-land-a-job-48_aich4p.png" alt="abhi_01_01" height="60" width="60" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhisingh100392" target="blank"><img align="center" src="https://res.cloudinary.com/shopie/image/upload/v1705531375/icons8-geeksforgeeks-48_lakn3y.png"alt="abhisingh100392" height="90" width="70" /></a>
-<a href="https://www.codechef.com/users/dflabs_83" target="blank" ><img align="center" src="https://res.cloudinary.com/shopie/image/upload/v1705531156/icons8-codechef-50_f3n6tq.png" alt="dflabs_83" height="60" width="70" /></a>
-</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.leetcode.com/abhi_01_01" target="blank">
+      <img align="center" src="https://res.cloudinary.com/shopie/image/upload/v1705531863/icons8-level-up-your-coding-skills-and-quickly-land-a-job-48_aich4p.png" alt="abhi_01_01" height="60" width="60" />
+    </a>
+    </td>
+    <td>
+      <a href="https://auth.geeksforgeeks.org/user/abhisingh100392" target="blank">
+  <img align="center" src="https://res.cloudinary.com/shopie/image/upload/v1705531375/icons8-geeksforgeeks-48_lakn3y.png"alt="abhisingh100392" height="60" width="60" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.codechef.com/users/dflabs_83" target="blank" >
+  <img align="center" src="https://res.cloudinary.com/shopie/image/upload/v1705531156/icons8-codechef-50_f3n6tq.png" alt="dflabs_83" height="60" width="60" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">☕ Support:</h2>
 
