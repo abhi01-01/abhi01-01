@@ -1,16 +1,12 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+`![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Abhishek. Welcome to my github profile.
+# <h1 align="center"> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Abhishek. Welcome to my github profile.</h1>
 
-<h3 align="center">A passionate programmer and backend developer from India.</h3>
+<h3 align="center">A Software Development Engineer from India focused on building scalable systems.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi01-01&label=Profile%20views&color=0e75b6&style=flat" alt="abhi01-01" /> </p>
 
 <p align="center"> 
-  
-  <!-- <a href="https://twitter.com/@_Ilunga_0">
-    <img src="https://img.shields.io/badge/Twitter-9e7661?style=for-the-badge"/>
-  </a> -->
   
   <a href="https://www.linkedin.com/in/abhishek0105/">
     <img src="https://img.shields.io/badge/LinkedIn-9e7661?style=for-the-badge"/>
@@ -24,15 +20,47 @@
 
 <br>
 
-- 🔭 I’m currently working on **a full stack project.**
+I have 2 years of experience working on Spring Boot microservices, event-driven workflows, API security, database optimization, CI/CD, and production-grade backend services. I’m currently targeting Software Development Engineer and Backend Engineer roles where I can work on scalable systems, distributed services, and reliable APIs.
 
-- 🌱 I’m currently learning **Java, DSA and System Design.**
+### What I work with
 
-- 💬 Ask me about **DSA, Java, SpringBoot, Microservices.**
+Java 8/21, Spring Boot, Spring Security, Spring Cloud, REST APIs, Microservices, Kafka, RabbitMQ, PostgreSQL, MySQL, MongoDB, Redis, Docker, GitHub Actions, AWS, JUnit, Testcontainers, Prometheus, Grafana.
 
-- 📄 Get My Resume [here](https://drive.google.com/file/d/1qqGqJI5PoBYpKDEDlqKt3lx9wwXpTQ3p/view?usp=sharing), request for access.
+### Featured Projects
 
-- ⚡ Fun fact : **I'm old school.**
+Wallet Service
+
+A high-throughput wallet backend built with Java, Spring Boot, PostgreSQL, Redis, Docker, Razorpay, JWT/OAuth2, and GitHub Actions.
+
+Key engineering work:
+
+* Double-entry ledger design for reliable balance tracking
+* Pessimistic locking to handle concurrent wallet operations
+* Razorpay webhook verification using HMAC-SHA256
+* Transactional inbox pattern for async reconciliation
+* Redis-backed rate limiting with token bucket algorithm
+* Dockerized deployment with CI/CD
+
+FitSphere
+
+A full-stack fitness platform built with Spring Boot microservices, Spring Cloud, React, RabbitMQ, Keycloak, PostgreSQL, MongoDB, and Docker.
+
+Key engineering work:
+
+* API Gateway, Eureka, and Config Server based microservice setup
+* OAuth2/OIDC authentication with Keycloak
+* RabbitMQ-based async activity processing
+* Hybrid persistence using PostgreSQL and MongoDB
+* AI-powered recommendations using Gemini API
+
+### Current Focus
+
+* Software Development Engineer roles
+* Backend engineering
+* Distributed systems fundamentals
+* System design
+* DSA implementation speed
+* Production-grade Java/Spring Boot projects
 
 
 <h2 align="left">Coding Profiles:</h2>
@@ -63,9 +91,9 @@
 
 <br><br>
 
-<!-- ## 🎧 Spotify Playing 
+<!--  ## 🎧 Spotify Playing 
 
-[![Spotify Recently Playing](https://spotify-recently-played-readme.vercel.app/api?user=fadb55qrvf0eyyubwfnibq0bi&count=6&width=600&align=center&unique=true)](https://open.spotify.com/user/fadb55qrvf0eyyubwfnibq0bi) -->
+[![Spotify Recently Playing](https://spotify-recently-played-readme.vercel.app/api?user=fadb55qrvf0eyyubwfnibq0bi&count=6&width=600&align=center&unique=true)](https://open.spotify.com/user/fadb55qrvf0eyyubwfnibq0bi) --> 
 
 <!-- ## 📊 GitHub Stats:
 
